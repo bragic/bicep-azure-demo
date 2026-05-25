@@ -1,0 +1,3 @@
+# Compiled ARM output
+*.json
+!parameters/*.json
