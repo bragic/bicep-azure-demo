@@ -3,6 +3,6 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "environment": { "value": "prod" },
-    "workloadName": { "value": "bicepdemo" }
+    "workloadName": { "value": "bragicbicepdemo" }
   }
 }
