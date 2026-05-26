@@ -2,7 +2,7 @@
 param environment string
 
 param location string = resourceGroup().location
-param workloadName string = 'bicepdemo'
+param workloadName string = 'bragicbicepdemo'
 
 var storageAccountName = 'st${workloadName}${environment}001'
 
