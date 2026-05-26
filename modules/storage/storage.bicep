@@ -21,6 +21,7 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2021-02-01' = {
     accessTier: 'Hot'
     allowBlobPublicAccess: false
     minimumTlsVersion: 'TLS1_2'
+    supportsHttpsTrafficOnly: true
   }
   tags: tags
 }
